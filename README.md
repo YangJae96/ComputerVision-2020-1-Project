@@ -10,6 +10,7 @@
 - torch1.5 and torchvision 0.6
 
 ## 3. Train
+- Must to do: You need to unzip the dataset.zip into the project root dir. The dataset folder should be in same dir as train.py 
 - command: python train.py --datapath (Root Dir of this Project) --epoch (epochs to train) --pretrained (set True for Pretranied ResNet Model)
 
 ## 4. Test
