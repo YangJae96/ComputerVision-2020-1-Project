@@ -6,9 +6,10 @@
 - 양재원, 유재원, 부준영
 
 ## 2. Version
-- Version: python3.6
+- python3.6
 - torch1.5 and torchvision 0.6
-- Cuda>=1.0 
+- Cuda >=10.2 
+- Ubuntu 18.04
 - Multiple GPU: Nvidia Titan X
 
 ## 3. Train
