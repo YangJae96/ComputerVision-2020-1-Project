@@ -8,6 +8,8 @@
 ## 2. Version
 - Version: python3.6
 - torch1.5 and torchvision 0.6
+- Cuda>=1.0 
+- Multiple GPU: Nvidia Titan X
 
 ## 3. Train
 - Must to do: You need to unzip the dataset.zip into the project root dir. The dataset folder should be in same dir as train.py 
