@@ -18,6 +18,6 @@
 
 ## 5. Classify your Weapon(knife,axe,pistol,rifle)
 - Commnd: python demo.py
- Put your weapon data in the my_dataset dir and put it in each subfolder.
+- Put your weapon data in the my_dataset dir and put it in each subfolder.
  It will classifiy the data with the trained model  "cvd.pth" inside the "trained_model" dir. 
 
